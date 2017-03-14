@@ -1,4 +1,4 @@
-theme: Plain Jane, 2
+theme: Plain Jane, 1
 
 # Linters
 
@@ -18,6 +18,12 @@ theme: Plain Jane, 2
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/240px-Clojure_logo.svg.png)
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/267px-Swift_logo.svg.png)
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/133px-Duke_%28Java_mascot%29_waving.svg.png)
+![inline](https://upload.wikimedia.org/wikipedia/commons/f/f2/Gopher-ru.png)
+![inline](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+---
+
+![fit](https://www.jetbrains.com/resharper/features/screenshots/100/find_code_issues.png)
 
 ---
 
@@ -36,5 +42,8 @@ theme: Plain Jane, 2
 * ["Clojure Logo"](https://commons.wikimedia.org/wiki/File%3AClojure_logo.svg) By Tom Hickey and Rich Hickey (File:Clojure-icon.png) [Public domain], via Wikimedia Commons
 * ["Swift Logo"](https://commons.wikimedia.org/wiki/File%3ASwift_logo.svg) See page for author [Public domain], via Wikimedia Commons
 * ["Java Logo"](https://commons.wikimedia.org/wiki/File%3ADuke_(Java_mascot)_waving.svg) By sbmehta converted to SVG from Sun Microsystems AI version. [BSD (http://opensource.org/licenses/bsd-license.php)], via Wikimedia Commons
+* ["Go Logo"](https://commons.wikimedia.org/wiki/File%3AGopher-ru.png) By Renee French (https://blog.golang.org/gopher) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+* ["Python Logo"](https://www.python.org/community/logos/)
+* ["ReSharper Inspection Results"](https://www.jetbrains.com/resharper/features/code_analysis.html)
 * ["Take My Advice Pin"](https://www.flickr.com/photos/jdhancock/3553699652/in/photostream/) By JD Hancock [CC BY-SA 4.0 (https://creativecommons.org/licenses/by/2.0)]
 * ["You Shall Not Pass"](http://www.deviantart.com/art/You-Shall-Not-Pass-330127651) by entroz
