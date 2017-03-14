@@ -8,6 +8,12 @@ theme: Plain Jane, 2
 
 ---
 
+* Unix V7 in 1979
+* Derived from the Portble C Compiler (PCC)
+* Named after "the undesirable bits of fiber and fluff found in sheep's wool."
+
+---
+
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png)
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/240px-Clojure_logo.svg.png)
 ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/267px-Swift_logo.svg.png)
