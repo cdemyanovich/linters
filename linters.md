@@ -14,12 +14,9 @@ theme: Plain Jane, 1
 
 ---
 
-![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png)
-![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/240px-Clojure_logo.svg.png)
-![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/267px-Swift_logo.svg.png)
-![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/133px-Duke_%28Java_mascot%29_waving.svg.png)
-![inline](https://upload.wikimedia.org/wikipedia/commons/f/f2/Gopher-ru.png)
-![inline](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/240px-Ruby_logo.svg.png) ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/240px-Clojure_logo.svg.png)
+![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/267px-Swift_logo.svg.png) ![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/133px-Duke_%28Java_mascot%29_waving.svg.png)
+![inline](https://upload.wikimedia.org/wikipedia/commons/f/f2/Gopher-ru.png) ![inline](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ---
 
