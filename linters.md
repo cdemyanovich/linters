@@ -8,8 +8,8 @@ theme: Plain Jane, 1
 
 ---
 
-* Unix V7 in 1979
 * Derived from the Portble C Compiler (PCC)
+* Unix V7 in 1979
 * Named after "the undesirable bits of fiber and fluff found in sheep's wool."
 
 ---
