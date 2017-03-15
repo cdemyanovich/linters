@@ -52,6 +52,15 @@ theme: Plain Jane, 1
 
 ---
 
+# Go forth and lint!
+
+```
+$ swiftlint
+Done linting! Found 0 violations, 0 serious in 8 files.
+```
+
+---
+
 # Image Credits
 
 * ["Lamb Lint"](https://explore.468photography.com/2012/04/17/lamb-lint/) By 468photography
